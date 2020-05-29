@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+F7TfqwlQ1A5/lJ16yHJQu4eQ11yLR0oE6xR5oRRxgg80vE7b/giSnCgh8Evt9asiF+fpHC8e1aIJuu8tx43Mg==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Geometry\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hsay7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
